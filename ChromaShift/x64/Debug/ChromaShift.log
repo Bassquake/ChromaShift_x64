@@ -1,4 +1,0 @@
-﻿  ChromaShift.cpp
-C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(1402,5): warning MSB8012: TargetPath(G:\Coding\chromashift27\x64\Debug\ChromaShiftDbg.dll) does not match the Linker's OutputFile property value (G:\Coding\chromashift27\Debug\ChromaShiftDbg.dll). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
-     Creating library .\Debug\ChromaShiftDbg.lib and object .\Debug\ChromaShiftDbg.exp
-  ChromaShift.vcxproj -> G:\Coding\chromashift27\x64\Debug\ChromaShiftDbg.dll
